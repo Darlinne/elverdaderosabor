@@ -6,6 +6,11 @@
     height: 700px;
 }
 
+.col-6 {
+    min-width: 660px;
+    margin: auto;
+}
+
 
 .mision, .vision {
     border-radius: 10px;

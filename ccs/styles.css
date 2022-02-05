@@ -167,3 +167,9 @@ ul li i:hover {
     font-weight: 400;
 }
 
+
+@media (max-width: 980px) {
+    .navbar-collapse {
+        margin-top: 20px;
+    }
+}

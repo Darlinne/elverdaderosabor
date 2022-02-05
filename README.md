@@ -1,4 +1,2 @@
-# elverdaderosabor
-Pagina del restaurante El verdadero sabor
-
-Pagina del restaurante El verdadero sabor
+# FoodGo
+Pagina del restaurante de comida rápida FoodGo
